@@ -78,12 +78,19 @@
 
 ---
 
-## **🎯 Next Goals**  
-✔ Improve problem-solving skills on **LeetCode & CodeChef**  
-✔ Contribute to **open-source projects**  
-✔ Build and deploy **AI-based applications**  
-✔ Write **technical blogs & tutorials**  
-
----
-
-![Thank You](https://c.tenor.com/IjbGZdXP80EAAAAM/one-punch-man-saitama.gif)  
+<table>
+  <tr>
+    <td style="vertical-align: middle;">
+      <h2>🎯 Next Goals</h2>
+      <ul style="list-style-type: none; padding: 0;">
+        <li>✅ Improve problem-solving skills on <b>LeetCode & CodeChef</b></li>
+        <li>✅ Contribute to <b>open-source projects</b></li>
+        <li>✅ Build and deploy <b>AI-based applications</b></li>
+        <li>✅ Write <b>technical blogs & tutorials</b></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://c.tenor.com/IjbGZdXP80EAAAAM/one-punch-man-saitama.gif" width="250" height="auto" style="border-radius: 10px;">
+    </td>
+  </tr>
+</table>
