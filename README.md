@@ -69,7 +69,7 @@
 ---
 
 ## **💬 Let's Connect!**  
-🌐 **Portfolio:** *Coming Soon*  
+🌐 **Portfolio:** https://iampiklu.netlify.app/  
 🔗 **GitHub:** [IamPiklu](https://github.com/IamPiklu)  
 👔 **LinkedIn:** [Soumodip Chandra](https://www.linkedin.com/in/soumodip-chandra-03b31728a/)  
 📊 **Kaggle:** [Soumodip Chandra](https://www.kaggle.com/soumodipchandra)  
